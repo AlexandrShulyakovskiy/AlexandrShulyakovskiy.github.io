@@ -1,0 +1,18 @@
+header{
+	background-image: url(../img/New-York.jpg);
+	padding-bottom: 500px;
+}
+h4{
+	padding-top: 50px;
+	text-decoration: underline;
+	font-weight: 300px;
+
+}
+
+.central{
+	color: blue;
+	margin-top: 40px;
+	text-decoration: underline;
+	text-decoration-color: blue;
+}
+
